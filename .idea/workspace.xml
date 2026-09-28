@@ -4,12 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5ecc6ce-b9d3-4754-ae0a-11455db55b45" name="Changes" comment="" />
+    <list default="true" id="f5ecc6ce-b9d3-4754-ae0a-11455db55b45" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/devTinder-web/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devTinder-web/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/devTinder-web/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devTinder-web/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/devTinder-web/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devTinder-web/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/devTinder-web/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devTinder-web/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/devTinder-web/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devTinder-web/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/devTinder-web/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devTinder-web/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/devTinder-web/vite.config.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "OmarSall"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:OmarSall/devTInder_FrontEnd.git",
+    "accountId": "4522d684-5e58-4810-a785-34641d0ccdba"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
@@ -21,6 +45,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "E:/NAMASTE NODEJS/devTinder-web",
     "node.js.detected.package.eslint": "true",
@@ -55,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1790516161358</updated>
-      <workItem from="1790516162636" duration="3283000" />
+      <workItem from="1790516162636" duration="8513000" />
     </task>
     <servers />
   </component>
