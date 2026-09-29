@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5ecc6ce-b9d3-4754-ae0a-11455db55b45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/devTinder-web/tailwind.config.js" afterDir="false" />
+    <list default="true" id="f5ecc6ce-b9d3-4754-ae0a-11455db55b45" name="Changes" comment="react-router-dom + components + outlet">
+      <change afterPath="$PROJECT_DIR$/devTinder-web/src/components/Body.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devTinder-web/src/components/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devTinder-web/src/components/Login.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devTinder-web/src/components/NavBar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devTinder-web/src/components/Profile.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devTinder-web/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/devTinder-web/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devTinder-web/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/devTinder-web/package-lock.json" afterDir="false" />
@@ -22,21 +26,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "OmarSall"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;OmarSall&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:OmarSall/devTInder_FrontEnd.git",
-    "accountId": "4522d684-5e58-4810-a785-34641d0ccdba"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:OmarSall/devTInder_FrontEnd.git&quot;,
+    &quot;accountId&quot;: &quot;4522d684-5e58-4810-a785-34641d0ccdba&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="3Jug2bvm8HPvUfZzAEF469P83SN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -45,6 +49,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "E:/NAMASTE NODEJS/devTinder-web",
@@ -53,6 +58,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.3.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -80,11 +86,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1790516161358</updated>
-      <workItem from="1790516162636" duration="8513000" />
+      <workItem from="1790516162636" duration="11262000" />
+      <workItem from="1790679896846" duration="6674000" />
     </task>
+    <task id="LOCAL-00001" summary="tailwind + daisyUI + navBar">
+      <option name="closed" value="true" />
+      <created>1790612050429</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1790612050429</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tailwind + daisyUI + navBar" />
+    <MESSAGE value="react-router-dom + components + outlet" />
+    <option name="LAST_COMMIT_MESSAGE" value="react-router-dom + components + outlet" />
   </component>
 </project>
